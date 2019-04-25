@@ -1,6 +1,6 @@
 # Pacman
 
-[![CircleCI](https://circleci.com/gh/priyankamk/pacman.svg?style=svg)](https://circleci.com/gh/priyankamk/pacman)
+[![CircleCI](https://circleci.com/gh/priyankamk/pacman.svg?style=svg&circle-token=b4420f2a332da63ef15f3b2e19a7f97e25e0e570)](https://circleci.com/gh/priyankamk/pacman)
 
 # Code-Challenge-1
 
