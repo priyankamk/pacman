@@ -21,4 +21,11 @@ RSpec.describe Pacman do
       expect(pacman.board[3][2]).to eq(0)
     end
   end
+
+  describe '#clear' do
+    it 'clear the board to 0' do
+      pacman.clear(1, 2)
+      expect(pacman.board[1][2]).to eq(0)
+    end
+  end
 end

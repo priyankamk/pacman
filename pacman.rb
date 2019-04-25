@@ -29,9 +29,9 @@ class Pacman
   end
 end
 
-# pacman = Pacman.new
-# pacman.report
-# pacman.place(1, 2)
-# pacman.report
-# pacman.place(3, 4)
-# pacman.report
+pacman = Pacman.new
+pacman.report
+pacman.place(1, 2)
+pacman.report
+pacman.place(3, 4)
+pacman.report
