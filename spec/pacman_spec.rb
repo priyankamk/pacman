@@ -33,4 +33,11 @@ RSpec.describe Pacman do
       expect(pacman.board[1][2]).to eq(0)
     end
   end
+
+  describe '#move' do
+    it 'current facing is north' do
+      pacman.place(2, 2, 'NORTH')
+      expect(pacman.move).to eq('NORTH')
+    end
+  end
 end
